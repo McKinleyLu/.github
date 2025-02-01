@@ -24,7 +24,7 @@ Unblocked Games Premium is more than just another gaming site—it's a gateway t
 
 Unblocked Games Premium offers a streamlined experience for anyone who loves to game but finds their access limited by school or work networks. Unlike many generic gaming sites, this platform emphasizes quality by curating a selection of games that are engaging, reliable, and optimized for low-bandwidth environments.
 
-### What Sets It Apart?
+## What Sets It Apart?
 - **Curated Collection:** Enjoy games that have been chosen for their fun factor and ease of use.
 - **Enhanced Navigation:** A clean, intuitive interface designed to help you find your favorite games quickly.
 - **Optimized for Restricted Networks:** Special techniques ensure that the site remains accessible even under heavy content filtering.
